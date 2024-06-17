@@ -53,4 +53,4 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 - *Kp unix-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use kp unix-Md at your own risk by keeping this warning in mind.*
-- Kp unix_Md is made available under the [GPL-3 license]<h3 align="center"> <a href="https://github.com/Kpunix/Kp-unix-MD"> .
+- Kp unix_Md is made available under the [GPL-3 license]. 
