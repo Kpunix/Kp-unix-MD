@@ -32,7 +32,7 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
 ---
 
