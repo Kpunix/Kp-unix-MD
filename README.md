@@ -34,3 +34,23 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 
 ## Deployment Methods
 ---
+
+
+##
+---
+
+
+- Star ⭐ repo if you like this bot.
+- If any problem, then create an [`+issue`](https://github.com/Kpunix/Kp-unix-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/Kpunix/Kp-unix-MD/discussions/new?category=q-a)!
+
+
+
+<h2 align="center">  NOTICE
+</h2>
+   
+## 
+
+- *Kp unix-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use kp unix-Md at your own risk by keeping this warning in mind.*
+- Kp unix_Md is made available under the [GPL-3 license](https://github.com/Kpunix/Kp-unix-MD/LICENCE).
