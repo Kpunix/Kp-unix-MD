@@ -31,9 +31,8 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
   </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
 
----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KP-UNIX+MD+MADE+BY;KELVIN_UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=#008000&lines=WELCOME+TO+KP-UNIX+MD+MADE+BY;KELVIN_UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
 ---
 
@@ -44,7 +43,6 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
  
----
 
 ## Deployment Methods
 ---
