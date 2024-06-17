@@ -16,7 +16,10 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 </p>
 
     
-   
+   <p align="right">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Kpunix/Kp-unix-MD" />
+  </a>
    
 <p align="center">
   <a href="https://wa.me/+255678925070?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kp.unix-Md+Repo" target="_blank">
@@ -29,10 +32,6 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
  
      </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
-<p align="right">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Kpunix/Kp-unix-MD" />
-  </a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
