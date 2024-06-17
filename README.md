@@ -27,6 +27,10 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
 
-  
+  </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
+
+---
+
 ## Deployment Methods
 ---
