@@ -13,7 +13,6 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
     <img alt="Kp_unix-Md" height="400" src="assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
-</p>
    
 <p align="center">
   <a href="https://wa.me/+255678925070?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kp.unix-Md+Repo" target="_blank">
@@ -29,8 +28,6 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
 
- 
-     </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
