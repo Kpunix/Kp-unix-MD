@@ -14,7 +14,16 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
     <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
    
-
+  </br> 
+<h4 align="left">
+##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
+    
+ ***Tap On Logo To Contat Me***
+ <p align="left">
+  <a href="kelvinunixtechnologies@gmail.com">
+    <img src="https://telegra.ph/file/84284eaa31d60db5f2d6c.jpg" align="centre" width="90" />
+   <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
+    <img src="https://telegra.ph/file/aa1fd064edcf7c32cf42d.png" align="centre" width="90" />
   <a aria-label="kp unix_Md is free to use" href="LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
