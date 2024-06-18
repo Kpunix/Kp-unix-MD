@@ -1,6 +1,6 @@
 build:
   docker:
-      worker: /Lazack/Dockerfile
+      worker: /kelvin_unix/Dockerfile
 run:
    worker: npm start
    
