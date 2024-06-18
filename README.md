@@ -14,10 +14,7 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
     <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
    
-<p align="center">
- <a href="https://chat.whatsapp.com/BXhYkUaP0RNBf6L6QdyRHo" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-  </a>
+
   <a aria-label="kp unix_Md is free to use" href="LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
@@ -25,7 +22,11 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
     <img alt="Forks" src="https://img.shields.io/github/forks/Kpunix/Kp-unix-MD" />
   </a>
   <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" /></p>
- 
+ <p align="center">
+ <a href="https://chat.whatsapp.com/BXhYkUaP0RNBf6L6QdyRHo" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ LAZACK-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+  </a>
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modern-ExtraBold&color=FF0000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
 ---
