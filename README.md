@@ -15,10 +15,14 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
   </a>
      <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" />
   </a>
-     <p align="centre">
+  
   <a aria-label="kp unix_Md is free to use" href="LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
+  
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Kpunix/Kp-unix-MD" />
+  </a>
   </br> 
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
