@@ -37,7 +37,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modern-ExtraBold&color=FF0000&lines=WELCOME+TO+Kp-unix+MD;MADE+BY+KELVIN+UNIX;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modern-ExtraBold&color=FF0000&lines=TAP+ON+LOGO+TO+CONTACT+ME;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 
 ---
 
