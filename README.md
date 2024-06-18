@@ -33,7 +33,7 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
     <img src="https://telegra.ph/file/aa1fd064edcf7c32cf42d.png" align="centre" width="90" />
  </a>
- <a href="https://chat.whatsapp.com/BXhYkUaP0RNBf6L6QdyRHo" target="_blank">
+ <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
    
