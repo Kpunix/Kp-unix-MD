@@ -15,9 +15,9 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
   </a>
    
 <p align="center">
-  <a href="https://wa.me/+255678925070?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kp.unix-Md+Repo" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a> 
+ <a href="https://chat.whatsapp.com/BXhYkUaP0RNBf6L6QdyRHo" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+  </a>
   <a aria-label="kp unix_Md is free to use" href="LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>   
