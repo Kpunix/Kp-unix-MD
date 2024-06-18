@@ -1,13 +1,13 @@
 # ⭐ Kp-unix-MD ⭐
-Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. Kp-unix MD brings a world of excitement and joy to your chats, fork and give me star⭐
+Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. Kp-unix MD brings a world of excitement and joy to your chats, fork and give me star⭐
 
 ---
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Kpunix/Kp-unix-MD"> 🇹🇿  GET PLUGINS </a>FOR KP UNIX_MD! 🇹🇿 </h3> 
+<h3 align="center"> <a href="https://github.com/Kpunix/Kp-unix-MD"> GET PLUGINS </a>FOR KP UNIX_MD! </h3> 
 
-
+---
 
 <p align="center">
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
@@ -63,7 +63,7 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/Kpunix/Kp-unix-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/Kpunix/Kp-unix-MD/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/Kpunix/Kp-unix-MD/issues/new) Or ask anything here [`+Q&A`](https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa) 
 
 
 
