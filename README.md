@@ -26,7 +26,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
     
- ***Tap On Logo To Contat Me 🤩***
+ ***Tap On Logo To Contact Me 🤩***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
     <img src="https://telegra.ph/file/84284eaa31d60db5f2d6c.jpg" align="centre" width="90" />
