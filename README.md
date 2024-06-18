@@ -1,7 +1,6 @@
 # Kp-unix-MD
 Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. Kp-unix MD brings a world of excitement and joy to your chats, fork and give me star⭐
 
- <h1 align="center"> Kp_unix Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -76,3 +75,13 @@ Meet Kp-unix MD bot🤖 created by Kelvin Unix🔥🔥,multidevice whatsapp bot 
 - *In that case, I'm not responsible for banning your account.*
 - *Use kp unix-Md at your own risk by keeping this warning in mind.*
 - Kp unix_Md is made available under the [GPL-3 license](https://github.com/Kpunix/Kp-unix-MD/blob/main/LICENCE)
+
+<h2 align="center">🔰 Meet Our Team 🔰
+</h2>
+
+
+
+[![kelvin Unix](https://github.com/Kpunix.png)](https://github.com/Kpunix)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) |
+|----|----|
+[Kelvin Unix](https://github.com/Kpunix)  | [Awais Malik](https://github.com/awaiskmalik) | 
+Owner, Main Developer, Maintainer, Dubugger, Support Developer | Owner, Co-Developer, Co-Maintainer, Support Developer
