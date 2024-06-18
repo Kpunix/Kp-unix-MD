@@ -1,5 +1,5 @@
 {
-  "name": "Lazack-Md",
+  "name": "Kp-unix-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/1dc10a39146c80069a439.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "LAZACK."
+      "value": "KELVIN UNIX."
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -52,10 +52,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "255734980103"
+       "value": "255678925070"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit Lazack md "
+    "description": "Please put your SESSION_ID here,if you don't have visit 𝑲𝒑-𝒖𝒏𝒊𝒙 𝑴𝑫"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -72,8 +72,8 @@
 	  "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are LAZACK and many more..",
-     "value": "LAZACK"
+    "description": "Put the theme name you want to use. Avilable themes are KELVIN UNIX and many more..",
+     "value": "KELVIN UNIX"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -86,7 +86,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "lazack",
+     "value": "Kelvin Unix",
      "required": false 
   },
   "heroku": {
