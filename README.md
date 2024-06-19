@@ -39,7 +39,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
    </a> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact-ExtraBold&color=FF0000&lines=TAP+ON+LOGO+TO+CONTACT+ME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact-ExtraBold&color=FF0000&lines=TAP+ON+LOGO+TO+CONTACT+ME)](https://git.io/typing-svg)
 
 ---
 
