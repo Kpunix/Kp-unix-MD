@@ -6,7 +6,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
  
  ***A simple WhatsApp bot with rich features.***
  
-<a href="https://github.com/Kpunix/Kp-unix-MD"> Get plugins </a>for kp unix Md! </h3> 
+<a href="https://github.com/Kpunix/Kp-unix-MD">Get plugins </a>for kp unix Md! </h3> 
 
 <p align="center">
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
