@@ -42,14 +42,18 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 
 ## Deployment Methods
  
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://Kp-unix-md-vtsf.onrender.com/) Or [`PARING CODE`](https://Kp-unix-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Kpunix/Kp-unix-MD/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%Kpunix%2FKp-unix-)***
+### ✧✧SETUP Kp-unix-MD-Md 
 
- 
+  
+1. Fork The Repo
+    <br>
+    <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/FORK Kp-unix-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. Pair with WhatsApp 
+   <p align="left">
+       <a href="https://maria-pair-riders004.koyeb.app/pair.html">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" 
+
 <h4 align="left"> Deploy on Heroku
 </h4>
 
