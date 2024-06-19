@@ -29,10 +29,10 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
  ***Tap On Logo To Contact Me 🤩***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
-    <img alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
+    <img alt="SIEGRIN | Gmail" width="28px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
    
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
-    <img alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+    <img alt="SIEGRIN | Whastapp" width="28px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
  </a>
  <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
