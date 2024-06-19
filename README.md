@@ -13,18 +13,9 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
     <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
-
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+KP UNIX-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM KELVIN UNIX;PUBLIC+RELESED+DATE;20/06/2024;." alt="Typing SVG" /></a>
   </p>
-     <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" />
-  </a>
-  
-  <a aria-label="kp unix_Md is free to use" href="LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />           </a>   
-  
-   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Kpunix/Kp-unix-MD" />
-  </a>
+     
   </br> 
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
