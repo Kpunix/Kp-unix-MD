@@ -49,6 +49,21 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%Kpunix%2FKp-unix-)***
 
+ 
+<h4 align="left"> Deploy on Heroku
+</h4>
+
+</p>
+
+<p align="left" >
+    <a href="https://heroku.com/deploy?template=https://github.com/Lazack28/Lazack-md">
+    <img src="https://telegra.ph/file/873a73bb44e63d9598fa8.png" width="100px" alt="Deploy to Heroku" >
+    </a>
+
+</p> 
+
+<br>
+
 ##
 ---
 
