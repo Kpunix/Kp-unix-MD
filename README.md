@@ -35,11 +35,11 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
  <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
    <img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
   </a>
-   <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa"><img title="Author" src="https://img.shields.io/badge/UNIQUE-MD-black?style=for-the-badge&logo=telegram">
+   <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa"><img title="Author" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
    </a> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modern-ExtraBold&color=FF0000&lines=TAP+ON+LOGO+TO+CONTACT+ME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact-ExtraBold&color=FF0000&lines=TAP+ON+LOGO+TO+CONTACT+ME)](https://git.io/typing-svg)
 
 ---
 
