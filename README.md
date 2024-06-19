@@ -24,7 +24,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
     
- ***Tap On Logo To Contact Me 🫵😲👇***
+ ***Tap On Logo To Contact Me 📩📥***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
     <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
@@ -48,9 +48,10 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
  
+---
 
 ## Deployment Methods
----
+
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://Kp-unix-md-vtsf.onrender.com/) Or [`PARING CODE`](https://Kp-unix-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Kpunix/Kp-unix-MD/fork) and `Star ⭐ Repository` for Courage.***
