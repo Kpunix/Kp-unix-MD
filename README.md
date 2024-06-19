@@ -30,9 +30,7 @@
 
 
 
-</p>
-
-     
+</br>
 
  ## ✧✧📍DEPLOYMENT SETUP📍✧✧ 
 
