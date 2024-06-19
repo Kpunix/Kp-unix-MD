@@ -41,13 +41,6 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 ---
 
 ## Deployment Methods
-
-<p align="center">
-  <a href="https://github.com/Kpunix/Kp-unix-MD"><b>Kp-unix-MD</b></a> Support Deploy On...
-</p>
-
-<p align="center">
-  <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
  
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://Kp-unix-md-vtsf.onrender.com/) Or [`PARING CODE`](https://Kp-unix-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
