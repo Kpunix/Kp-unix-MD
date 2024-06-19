@@ -44,7 +44,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 
 **1. Fork The Repo and `star ⭐ repository` for courage**
     <br>
-    <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/FORK Kp unix-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/Click here to Fork-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 **2. Scan `QR codes` with WhatsApp** 
    <p align="left">
