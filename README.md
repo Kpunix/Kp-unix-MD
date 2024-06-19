@@ -1,7 +1,3 @@
-# ⭐ Kp-unix-MD ⭐
-Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. Kp-unix MD brings a world of excitement and joy to your chats, fork and give me star⭐
-
----
 
 <p align="center">
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
@@ -34,7 +30,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
      
 ---
 
-## ✧✧DEPLOYMENT SETUP
+## ✧✧📍DEPLOYMENT SETUP📍✧✧
 
 **1. Fork The Repo and `star ⭐ repository` for courage**
     <br>
