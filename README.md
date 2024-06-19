@@ -30,9 +30,8 @@
      
 ---
 
-## ✧✧📍DEPLOYMENT SETUP📍✧✧
+ **✧✧📍DEPLOYMENT SETUP📍✧✧**
 
-    </p>
     
 **1. Fork The Repo and `star ⭐ repository` for courage**
     <br>
@@ -52,7 +51,7 @@
  
  `Click👆👆 on heroku icon above to deploy`
        
-##
+
 ---
 
 - Star ⭐ repo if you like this bot.
