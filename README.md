@@ -50,11 +50,11 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
    <p align="left">
        <a href="https://maria-pair-riders004.koyeb.app/pair.html">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" 
-Get [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`
+Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`
  
 3. Deploy on Heroku
 <p align="left" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Kpunix/Kp-unix-MD">
+  <a href="https://heroku.com/deploy?template=https://github.com/Kpunix/Kp-unix-MD">
     <img src="https://telegra.ph/file/873a73bb44e63d9598fa8.png" width="100px" alt="Deploy to Heroku" 
 
 ##
