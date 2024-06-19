@@ -8,7 +8,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 </p>
 
  
-<h3 align="center"> <a href="https://github.com/Kpunix/Kp-unix-MD"> GET PLUGINS </a>FOR KP UNIX_MD! </h3> 
+<a href="https://github.com/Kpunix/Kp-unix-MD"> Get plugins</a>for kp unix Md! </h3> 
 
 <p align="center">
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
@@ -47,7 +47,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
     <br>
     <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/Click here to Fork-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-**2. Get session ID by Scanning `QR codes` with WhatsApp** 
+**2. Get session ID by Scanning `QR code` with WhatsApp** 
    <p align="left">
        <a href="https://maria-pair-riders004.koyeb.app/pair.html">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90"/>
