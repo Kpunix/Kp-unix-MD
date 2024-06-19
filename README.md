@@ -24,7 +24,7 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🚒 :
     
- ***Click on icons below(⬇️)to contact Me 📩📥***
+ ***Click on icons below(👇)to contact Me 📩📥***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
     <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
