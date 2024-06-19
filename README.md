@@ -14,14 +14,12 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
     <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+KP UNIX-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM KELVIN UNIX;PUBLIC+RELESED+DATE;20/06/2024;." alt="Typing SVG" /></a>
-  </p>
     <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/UNIQUE-MD?&style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD.svg?type=shield"/></a>
-</p> 
+
   </br> 
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
