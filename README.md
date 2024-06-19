@@ -13,6 +13,9 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
     <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
   </a>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+KP UNIX-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM KELVIN UNIX;PUBLIC+RELESED+DATE;20/06/2024;." alt="Typing SVG" /></a>
+  </p>
      <p align="center"><img src="https://profile-counter.glitch.me/{Kpunix}/count.svg" alt="Kpunix :: Visitor's Count" />
   </a>
   
@@ -29,10 +32,10 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
  ***Tap On Logo To Contact Me 🤩***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
-    <img alt="SIEGRIN | Gmail" width="48px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
+    <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
    
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
-    <img alt="SIEGRIN | Whastapp" width="48px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+    <img alt="SIEGRIN | Whastapp" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
  </a>
  <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KELVIN-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
