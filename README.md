@@ -40,14 +40,11 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
    
 ---
 
-## Deployment Methods
- 
-### ✧✧SETUP Kp-unix-MD-Md 
+## ✧✧DEPLOYMENT SETUP
 
-  
 1. Fork The Repo
     <br>
-    <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/FORK Kp-unix-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/FORK KP UUNIX-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
    <p align="left">
