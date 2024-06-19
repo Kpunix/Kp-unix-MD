@@ -27,15 +27,13 @@
    <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa"><img title="Author" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
    </a> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
      
+
+ ## ✧✧📍DEPLOYMENT SETUP📍✧✧ 
+
 ---
 
- ## ✧✧📍DEPLOYMENT SETUP📍✧✧ />
-  </a>
-  
- </p>
-
-  
     
 **1. Fork The Repo and `star ⭐ repository` for courage**
     <br>
