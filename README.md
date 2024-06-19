@@ -42,24 +42,21 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 
 ## ✧✧DEPLOYMENT SETUP
 
-1. Fork The Repo
+## 1. Fork The Repo
     <br>
     <a href="https://github.com/Kpunix/Kp-unix-MD/fork"><img title="Kp unix-MD" src="https://img.shields.io/badge/FORK Kp unix-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Pair with WhatsApp 
+## 2. Pair with WhatsApp 
    <p align="left">
        <a href="https://maria-pair-riders004.koyeb.app/pair.html">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" 
 
-3. Deploy on Heroku
+## 3. Deploy on Heroku
 <p align="left" >
     <a href="https://heroku.com/deploy?template=https://github.com/Kpunix/Kp-unix-MD">
-    <img src="https://telegra.ph/file/873a73bb44e63d9598fa8.png" width="100px" alt="Deploy to Heroku" >
-    </a>
+    <img src="https://telegra.ph/file/873a73bb44e63d9598fa8.png" width="100px" alt="Deploy to Heroku" 
 
-##
 ---
-
 
 - Star ⭐ repo if you like this bot.
 - If any problem, then create an [`+issue`](https://github.com/Kpunix/Kp-unix-MD/issues/new) Or ask anything here [`+Q&A`](https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa) 
