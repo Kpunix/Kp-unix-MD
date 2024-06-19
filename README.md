@@ -18,9 +18,8 @@ Meet Kp-unix MD bot🤖 created by 🇹🇿 Kelvin Unix 🇹🇿🔥🔥,multide
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/UNIQUE-MD?&style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
-<a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"/>
-                                                          
----    
+<a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"
+ </br>                                                      
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🚒 :
     
