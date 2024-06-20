@@ -16,7 +16,9 @@
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
     <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
-  
+  <p align="right">
+<img alt="Kp_unix-Md" height="100" src="Assets/IMG-20240620-WA0089.jpg"> 
+  </a>
   <p align="centre">
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
     <img alt="SIEGRIN | Whastapp" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
@@ -30,9 +32,6 @@
    </br> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-<p align="right">
-<img alt="Kp_unix-Md" height="100" src="Assets/IMG-20240620-WA0089.jpg"> 
-  </a>
 
 Meet `Kp-unix MD bot🤖` created by `Kelvin Unix`🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. `Kp-unix MD` brings a world of excitement and joy to your chats, `fork` and `give me star⭐`
 
