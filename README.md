@@ -17,7 +17,7 @@
   <a href="kelvinunixtechnologies@gmail.com">
     <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   </a>
-    <p align>
+  
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
     <img alt="SIEGRIN | Whastapp" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
      
