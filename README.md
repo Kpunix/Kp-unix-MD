@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA==">
-    <img alt="Kp_unix-Md" height="400" src="Assets/US-military-experimenting-with-artificial-intelligence-that-can-predict-the.jpg"> 
+    <img alt="Kp_unix-Md" height="400" src="Assets/IMG-20240620-WA0089.jpg"> 
   </a>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+KP UNIX-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM KELVIN UNIX;PUBLIC+RELESED+DATE;20/06/2024;" alt="Typing SVG" 
     <p align="center">
