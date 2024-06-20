@@ -15,20 +15,15 @@
  ***Click on the icons below (👇) to contact Me 📩📥***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
-    <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" /><p align="right">
-<img alt="Kp_unix-Md" height="100" src="Assets/IMG-20240620-WA0089.jpg"> 
+    <img alt="SIEGRIN | Gmail" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   </a>
-  <p align="centre">
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
     <img alt="SIEGRIN | Whastapp" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
      
- <p align="centre">
  <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
    <img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
   </a>
-    </br>
    <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa"><img title="Author" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
-   </br> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
