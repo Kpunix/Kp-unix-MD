@@ -10,7 +10,8 @@
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social">
 
-  <p align="left">                                                      
+  <p align="left">      
+    
  ***Click on the icons below (👇) to contact Me 📩📥***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
@@ -18,12 +19,12 @@
    
    <a href="https://wa.me/255678925070?text=Hi%20kelvin%20Sir...%20I%20need%20some%20help%20in%20kp unix Bot">
     <img alt="SIEGRIN | Whastapp" width="40px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
- </a>
+ </br>
  <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa" target="_blank">
    <img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
   </a>
    <a href="https://chat.whatsapp.com/LQhJvPQduni2MEGcT0pfKa"><img title="Author" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
-   </a> 
+   </br> 
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
