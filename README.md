@@ -46,7 +46,7 @@ Meet `Kp-unix MD bot🤖` created by `Kelvin Unix`🔥🔥,multidevice whatsapp 
        <a href="https://maria-pair-riders004.koyeb.app/pair.html">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90"/>
           
-***OR by*** [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`
+***OR by*** [`PARING CODE`](git@ssh.osc-fr1.scalingo.com:kpunix.git/code). Then `Go-to Whatapp>Three dots>Linked Devices`
  
 **3. Deploy on Heroku**
 <p align="left"
