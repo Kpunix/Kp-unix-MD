@@ -31,7 +31,7 @@
    <a href="https://www.instagram.com/kelvin_unix?igsh=MWdyemZ1MXExbXNzdA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <p align="right">
-<img alt="Kp_unix-Md" height="400" src="Assets/IMG-20240620-WA0089.jpg"> 
+<img alt="Kp_unix-Md" height="100" src="Assets/IMG-20240620-WA0089.jpg"> 
   </a>
 
 Meet `Kp-unix MD bot🤖` created by `Kelvin Unix`🔥🔥,multidevice whatsapp bot Enjoy a thrilling messaging experience like never before. `Kp-unix MD` brings a world of excitement and joy to your chats, `fork` and `give me star⭐`
