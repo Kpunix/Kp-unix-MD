@@ -10,9 +10,6 @@
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"
                                                        
-<h4 align="left">
-𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🚒 :
-    
  ***Click on the icons below (👇) to contact Me 📩📥***
  <p align="left">
   <a href="kelvinunixtechnologies@gmail.com">
